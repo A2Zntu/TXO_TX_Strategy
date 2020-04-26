@@ -4,7 +4,10 @@
 *.pdf
 *.xlsx
 *.xlsm
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
+*.py[cod]
+*.pkl
+
+*/__pycache__/*
+checkpoints/*
 
 */*.csv
