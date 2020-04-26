@@ -4,6 +4,7 @@
 *.pdf
 *.xlsx
 *.xlsm
-
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
 */*.csv
