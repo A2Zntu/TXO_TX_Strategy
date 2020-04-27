@@ -35,11 +35,11 @@ Strategy Development
 Performance
 -------------- 
 * Strategy1: 
- ![alt text](https://github.com/A2Zntu/FuturesStrategy/blob/master/Graph/BuyandHold.png "BuyandHold")
+ ![alt text](https://github.com/A2Zntu/TXO_TX_Strategy/blob/master/Graph/BuyandHold.png "BuyandHold")
 
  
 * Strategy2: 
- ![alt text](https://github.com/A2Zntu/FuturesStrategy/blob/master/Graph/Strategy2.png "Strategy2")
+ ![alt text](https://github.com/A2Zntu/TXO_TX_Strategy/blob/master/Graph/Strategy2.png "Strategy2")
 
 
 
@@ -47,8 +47,8 @@ Conclusion
 -------------- 
 | Strategy  | HPR    | APR    | Sharp Ratio | MDD |
 | ---       | ---    |   ---  |   ---  | ---    |
-| Strategy1 | 0.0531 | 0.0179 | 0.0434 | -0.314 |
-| Strategy2 | 0.2135 | 0.0686 | 0.5171 | -0.164 |
+| Strategy1 | 0.024 | 0.2292| 0.41 | 16.67% |
+| Strategy2 | 0.066 | 0.7387 |3.2 | 4.24% |
 
  
 
