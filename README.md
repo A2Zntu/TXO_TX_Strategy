@@ -20,6 +20,12 @@ Data Resorce
     * Rate: TEJ
 
 
+Descriptive 
+-------------- 
+* The trend on CPIV and TX: 
+ ![alt text](https://github.com/A2Zntu/TXO_TX_Strategy/blob/master/Graph/CPIV%20and%20TX.png "CPIV and TX")
+
+
 Strategy Development 
 -------------- 
 * Strategy1: Buy and Hold  
