@@ -15,9 +15,10 @@ Data
 Data Resorce
 -------------- 
 * Data resorce:    
-    * Futures:  http://www.taifex.com.tw/cht/3/dlFutPrevious30DaysSalesData  
+    * Fund:  http://www.taifex.com.tw/cht/3/dlFutPrevious30DaysSalesData  
     * Options:  http://www.taifex.com.tw/cht/3/dlOptPrevious30DaysSalesData
     * Rate: TEJ
+
 
 
 Descriptive 
