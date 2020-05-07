@@ -4,6 +4,7 @@
 *.pdf
 *.xlsx
 *.xlsm
+*.zip
 *.py[cod]
 *.pkl
 
